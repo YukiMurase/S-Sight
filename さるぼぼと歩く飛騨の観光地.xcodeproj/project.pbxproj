@@ -7,13 +7,114 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		04458F2C1F470191000EAF28 /* 114514.gif in Resources */ = {isa = PBXBuildFile; fileRef = 04458F2B1F46FFBC000EAF28 /* 114514.gif */; };
+		04458F2E1F47102B000EAF28 /* galleryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04458F2D1F47102B000EAF28 /* galleryViewController.swift */; };
+		04458F8B1F471949000EAF28 /* 114514.gif in Resources */ = {isa = PBXBuildFile; fileRef = 04458F321F471934000EAF28 /* 114514.gif */; };
+		04458F8C1F47194D000EAF28 /* 1919810.png in Resources */ = {isa = PBXBuildFile; fileRef = 04458F331F471934000EAF28 /* 1919810.png */; };
+		04458F8D1F47194F000EAF28 /* toy_hida_sarubobo.png in Resources */ = {isa = PBXBuildFile; fileRef = 04458F341F471934000EAF28 /* toy_hida_sarubobo.png */; };
+		04458F8E1F471952000EAF28 /* さるぼぼ.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F351F471934000EAF28 /* さるぼぼ.jpeg */; };
+		04458F8F1F471954000EAF28 /* しぶきの湯・遊湯館.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F361F471934000EAF28 /* しぶきの湯・遊湯館.jpg */; };
+		04458F901F471957000EAF28 /* ひだ荘川連獅子.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F371F471934000EAF28 /* ひだ荘川連獅子.jpg */; };
+		04458F911F47195B000EAF28 /* ぶり街道祭り１.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F381F471934000EAF28 /* ぶり街道祭り１.jpg */; };
+		04458F921F47195E000EAF28 /* ぶり街道祭り２.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F391F471934000EAF28 /* ぶり街道祭り２.jpg */; };
+		04458F931F471961000EAF28 /* キッチン飛騨.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F3A1F471934000EAF28 /* キッチン飛騨.jpg */; };
+		04458F941F471964000EAF28 /* キッチン飛騨飛騨牛.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F3B1F471934000EAF28 /* キッチン飛騨飛騨牛.jpg */; };
+		04458F951F471967000EAF28 /* タルマかねこおりライトアップ１.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F3C1F471934000EAF28 /* タルマかねこおりライトアップ１.jpg */; };
+		04458F961F471969000EAF28 /* タルマかねこおりライトアップ２.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F3D1F471934000EAF28 /* タルマかねこおりライトアップ２.jpg */; };
+		04458F971F47196C000EAF28 /* トランブルー.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F3E1F471934000EAF28 /* トランブルー.jpg */; };
+		04458F981F47196F000EAF28 /* トランブルークロワッサン.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F3F1F471934000EAF28 /* トランブルークロワッサン.jpg */; };
+		04458F991F471971000EAF28 /* ライトアップ新穂高.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F411F471934000EAF28 /* ライトアップ新穂高.jpg */; };
+		04458F9A1F471973000EAF28 /* ハンバーガー.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F401F471934000EAF28 /* ハンバーガー.jpeg */; };
+		04458F9B1F471976000EAF28 /* ラーメン.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F421F471934000EAF28 /* ラーメン.jpeg */; };
+		04458F9C1F471978000EAF28 /* 丸明飛騨高山店.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F431F471934000EAF28 /* 丸明飛騨高山店.jpg */; };
+		04458F9D1F47197B000EAF28 /* 丸明飛騨高山店飛騨牛.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F441F471934000EAF28 /* 丸明飛騨高山店飛騨牛.jpg */; };
+		04458F9E1F47197E000EAF28 /* 丹生川夏まつり.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F451F471934000EAF28 /* 丹生川夏まつり.jpg */; };
+		04458F9F1F471980000EAF28 /* 二十四日市.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F461F471934000EAF28 /* 二十四日市.jpg */; };
+		04458FA01F471983000EAF28 /* 二四三屋.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F471F471934000EAF28 /* 二四三屋.jpg */; };
+		04458FA11F471985000EAF28 /* 二四三屋みたらし団子.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F481F471934000EAF28 /* 二四三屋みたらし団子.jpg */; };
+		04458FA21F471988000EAF28 /* 刀彫-01.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F491F471934000EAF28 /* 刀彫-01.jpg */; };
+		04458FA31F47198B000EAF28 /* 切り絵-02.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F4A1F471934000EAF28 /* 切り絵-02.jpg */; };
+		04458FA41F47198E000EAF28 /* 千光寺.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F4B1F471934000EAF28 /* 千光寺.jpg */; };
+		04458FA51F471990000EAF28 /* 吉島家住宅.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F4C1F471934000EAF28 /* 吉島家住宅.jpg */; };
+		04458FA61F471992000EAF28 /* 在郷料理02.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 04458F4D1F471934000EAF28 /* 在郷料理02.JPG */; };
+		04458FA71F471999000EAF28 /* 城山公園.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F4E1F471934000EAF28 /* 城山公園.jpg */; };
+		04458FA81F47199C000EAF28 /* 堂之上遺跡.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F4F1F471934000EAF28 /* 堂之上遺跡.jpg */; };
+		04458FA91F47199F000EAF28 /* 堂之上遺跡２.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F501F471934000EAF28 /* 堂之上遺跡２.jpg */; };
+		04458FAA1F4719A2000EAF28 /* 塩沢温泉七峰館.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F511F471934000EAF28 /* 塩沢温泉七峰館.jpg */; };
+		04458FAB1F4719A5000EAF28 /* 宮地家住宅.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F521F471934000EAF28 /* 宮地家住宅.jpg */; };
+		04458FAC1F4719A7000EAF28 /* 宿儺の湯.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F531F471934000EAF28 /* 宿儺の湯.jpg */; };
+		04458FAD1F4719AA000EAF28 /* 小糸焼.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F541F471934000EAF28 /* 小糸焼.jpg */; };
+		04458FAE1F4719AC000EAF28 /* 山中和紙-02.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 04458F551F471934000EAF28 /* 山中和紙-02.JPG */; };
+		04458FAF1F4719AF000EAF28 /* 山桜神社絵馬市１.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F561F471934000EAF28 /* 山桜神社絵馬市１.jpg */; };
+		04458FB01F4719B3000EAF28 /* 山桜神社絵馬市２.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F571F471934000EAF28 /* 山桜神社絵馬市２.jpg */; };
+		04458FB11F4719B5000EAF28 /* 山田焼.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F581F471934000EAF28 /* 山田焼.jpg */; };
+		04458FB21F4719B8000EAF28 /* 市政記念館.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F591F471934000EAF28 /* 市政記念館.jpg */; };
+		04458FB31F4719BA000EAF28 /* 年の瀬市２.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F5B1F471934000EAF28 /* 年の瀬市２.jpg */; };
+		04458FB41F4719BD000EAF28 /* 年の瀬市１.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F5A1F471934000EAF28 /* 年の瀬市１.jpg */; };
+		04458FB51F4719C0000EAF28 /* 思い出体験館１.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F5C1F471934000EAF28 /* 思い出体験館１.jpg */; };
+		04458FB61F4719C2000EAF28 /* 思い出体験館２.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F5D1F471934000EAF28 /* 思い出体験館２.jpg */; };
+		04458FB71F4719C5000EAF28 /* 我楽多市.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F5E1F471934000EAF28 /* 我楽多市.jpg */; };
+		04458FB81F4719C8000EAF28 /* 我楽多市２.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F5F1F471934000EAF28 /* 我楽多市２.jpg */; };
+		04458FB91F4719CB000EAF28 /* 手筒花火１.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F601F471934000EAF28 /* 手筒花火１.jpg */; };
+		04458FBA1F4719CE000EAF28 /* 手筒花火２.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F611F471934000EAF28 /* 手筒花火２.jpg */; };
+		04458FBB1F4719D2000EAF28 /* 手筒花火３.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F621F471934000EAF28 /* 手筒花火３.jpg */; };
+		04458FBC1F4719D5000EAF28 /* 手筒花火４.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F631F471934000EAF28 /* 手筒花火４.jpg */; };
+		04458FBD1F4719D7000EAF28 /* 手長.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F641F471934000EAF28 /* 手長.jpg */; };
+		04458FBE1F4719DB000EAF28 /* 播隆祭.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F651F471934000EAF28 /* 播隆祭.jpg */; };
+		04458FBF1F4719DD000EAF28 /* 新穂高の湯.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F661F471934000EAF28 /* 新穂高の湯.jpg */; };
+		04458FC01F4719E0000EAF28 /* 日下部民藝館.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F671F471934000EAF28 /* 日下部民藝館.jpg */; };
+		04458FC11F4719E3000EAF28 /* 日下部民藝館２.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F681F471934000EAF28 /* 日下部民藝館２.jpg */; };
+		04458FC21F4719E5000EAF28 /* 松倉山.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F691F471934000EAF28 /* 松倉山.jpg */; };
+		04458FC31F4719E9000EAF28 /* 松本家.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F6A1F471934000EAF28 /* 松本家.jpg */; };
+		04458FC41F4719EC000EAF28 /* 桜山八幡宮.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F6B1F471934000EAF28 /* 桜山八幡宮.jpg */; };
+		04458FC51F4719EF000EAF28 /* 桜香の湯.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F6C1F471934000EAF28 /* 桜香の湯.jpg */; };
+		04458FC61F4719F1000EAF28 /* 江名子川七夕飾り１.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F6D1F471934000EAF28 /* 江名子川七夕飾り１.jpg */; };
+		04458FC71F4719F4000EAF28 /* 江名子川七夕飾り２.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F6E1F471934000EAF28 /* 江名子川七夕飾り２.jpg */; };
+		04458FC81F4719F7000EAF28 /* 清峯寺円空仏.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F6F1F471934000EAF28 /* 清峯寺円空仏.jpg */; };
+		04458FC91F4719FE000EAF28 /* 渋草焼１.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F701F471934000EAF28 /* 渋草焼１.jpg */; };
+		04458FCA1F471A00000EAF28 /* 渋草焼２.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F711F471934000EAF28 /* 渋草焼２.jpg */; };
+		04458FCB1F471A02000EAF28 /* 渋草焼３.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F721F471934000EAF28 /* 渋草焼３.jpg */; };
+		04458FCC1F471A05000EAF28 /* 甚五郎らーめん.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F731F471934000EAF28 /* 甚五郎らーめん.jpg */; };
+		04458FCD1F471A08000EAF28 /* 甚五郎らーめん高山ラーメンjpg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F741F471934000EAF28 /* 甚五郎らーめん高山ラーメンjpg.jpg */; };
+		04458FCE1F471A0B000EAF28 /* 生きびな祭り１.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F751F471934000EAF28 /* 生きびな祭り１.jpg */; };
+		04458FCF1F471A0E000EAF28 /* 生きびな祭り２.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F761F471934000EAF28 /* 生きびな祭り２.jpg */; };
+		04458FD01F471A11000EAF28 /* 荒城神社.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F771F471934000EAF28 /* 荒城神社.jpg */; };
+		04458FD11F471A13000EAF28 /* 荒川家住宅.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F781F471934000EAF28 /* 荒川家住宅.jpg */; };
+		04458FD21F471A15000EAF28 /* 足長.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F791F471934000EAF28 /* 足長.jpg */; };
+		04458FD31F471A18000EAF28 /* 酒蔵めぐり１.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F7A1F471934000EAF28 /* 酒蔵めぐり１.jpg */; };
+		04458FD41F471A1B000EAF28 /* 酒蔵めぐり２.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F7B1F471934000EAF28 /* 酒蔵めぐり２.jpg */; };
+		04458FD51F471A1E000EAF28 /* 金蔵獅子.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F7C1F471934000EAF28 /* 金蔵獅子.jpg */; };
+		04458FD61F471A21000EAF28 /* 陣屋前夜市１.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F7D1F471934000EAF28 /* 陣屋前夜市１.jpg */; };
+		04458FD71F471A24000EAF28 /* 陣屋前夜市２.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F7E1F471934000EAF28 /* 陣屋前夜市２.jpg */; };
+		04458FD81F471A27000EAF28 /* 陣屋前夜市３.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F7F1F471934000EAF28 /* 陣屋前夜市３.jpg */; };
+		04458FD91F471A29000EAF28 /* 飛騨こって牛.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F801F471934000EAF28 /* 飛騨こって牛.jpg */; };
+		04458FDA1F471A2C000EAF28 /* 飛騨こって牛握り寿司.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F811F471934000EAF28 /* 飛騨こって牛握り寿司.jpg */; };
+		04458FDB1F471A30000EAF28 /* 飛騨コロッケ.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F821F471934000EAF28 /* 飛騨コロッケ.jpg */; };
+		04458FDC1F471A33000EAF28 /* 飛騨一宮水無神社.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F831F471934000EAF28 /* 飛騨一宮水無神社.jpg */; };
+		04458FDD1F471A35000EAF28 /* 飛騨牛-01.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 04458F841F471934000EAF28 /* 飛騨牛-01.JPG */; };
+		04458FDE1F471A38000EAF28 /* 高山城跡.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F851F471934000EAF28 /* 高山城跡.jpg */; };
+		04458FDF1F471A3B000EAF28 /* 高山市役所庁舎.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F861F471934000EAF28 /* 高山市役所庁舎.jpg */; };
+		04458FE01F471A3E000EAF28 /* 高山陣屋１.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F871F471934000EAF28 /* 高山陣屋１.jpg */; };
+		04458FE11F471A41000EAF28 /* 高山陣屋２.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F881F471934000EAF28 /* 高山陣屋２.jpg */; };
+		04458FE21F471A44000EAF28 /* 魚.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 04458F891F471934000EAF28 /* 魚.jpeg */; };
+		04458FE31F471A47000EAF28 /* 鮎の塩焼き-02.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 04458F8A1F471934000EAF28 /* 鮎の塩焼き-02.JPG */; };
+		04458FE71F471C4E000EAF28 /* GalleryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04458FE61F471C4E000EAF28 /* GalleryViewController.swift */; };
+		04458FEA1F473A75000EAF28 /* CoreMotion.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04458FE91F473A75000EAF28 /* CoreMotion.framework */; };
+		04458FED1F47C367000EAF28 /* title2.wav in Resources */ = {isa = PBXBuildFile; fileRef = 04458FEB1F47C345000EAF28 /* title2.wav */; };
+		04458FEE1F47C36A000EAF28 /* title1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 04458FEC1F47C345000EAF28 /* title1.wav */; };
+		04458FF01F47D012000EAF28 /* b246a779002b849122e6afd81c9a36c5_t.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 04458FEF1F47D00A000EAF28 /* b246a779002b849122e6afd81c9a36c5_t.jpeg */; };
+		04458FF21F47DF79000EAF28 /* 364.png in Resources */ = {isa = PBXBuildFile; fileRef = 04458FF11F47DC63000EAF28 /* 364.png */; };
+		04458FF51F47DF98000EAF28 /* 89.png in Resources */ = {isa = PBXBuildFile; fileRef = 04458FF31F47DF88000EAF28 /* 89.png */; };
+		04458FF61F47DF9B000EAF28 /* 464.png in Resources */ = {isa = PBXBuildFile; fileRef = 04458FF41F47DF90000EAF28 /* 464.png */; };
+		04458FF81F480DC0000EAF28 /* toy_hida_sarubobo.png in Resources */ = {isa = PBXBuildFile; fileRef = 0467FB641F46DCDF00787696 /* toy_hida_sarubobo.png */; };
+		046030161F46F3DE00851AD7 /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0467FB681F46E6A400787696 /* Storyboard.storyboard */; };
 		0467FB371F46D81400787696 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0467FB361F46D81400787696 /* AppDelegate.swift */; };
 		0467FB391F46D81500787696 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0467FB381F46D81500787696 /* ViewController.swift */; };
-		0467FB3C1F46D81500787696 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0467FB3A1F46D81500787696 /* Main.storyboard */; };
 		0467FB3E1F46D81500787696 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0467FB3D1F46D81500787696 /* Assets.xcassets */; };
 		0467FB411F46D81500787696 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0467FB3F1F46D81500787696 /* LaunchScreen.storyboard */; };
 		0467FB4C1F46D81500787696 /* _______________Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0467FB4B1F46D81500787696 /* _______________Tests.swift */; };
 		0467FB571F46D81500787696 /* _______________UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0467FB561F46D81500787696 /* _______________UITests.swift */; };
+		0467FB661F46DF1300787696 /* MyLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0467FB651F46DF1300787696 /* MyLabel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,10 +135,109 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		04458F2B1F46FFBC000EAF28 /* 114514.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 114514.gif; sourceTree = "<group>"; };
+		04458F2D1F47102B000EAF28 /* galleryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = galleryViewController.swift; path = ../galleryViewController.swift; sourceTree = "<group>"; };
+		04458F301F4712AB000EAF28 /* 1919810.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1919810.png; sourceTree = "<group>"; };
+		04458F321F471934000EAF28 /* 114514.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 114514.gif; sourceTree = "<group>"; };
+		04458F331F471934000EAF28 /* 1919810.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1919810.png; sourceTree = "<group>"; };
+		04458F341F471934000EAF28 /* toy_hida_sarubobo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = toy_hida_sarubobo.png; sourceTree = "<group>"; };
+		04458F351F471934000EAF28 /* さるぼぼ.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "さるぼぼ.jpeg"; sourceTree = "<group>"; };
+		04458F361F471934000EAF28 /* しぶきの湯・遊湯館.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "しぶきの湯・遊湯館.jpg"; sourceTree = "<group>"; };
+		04458F371F471934000EAF28 /* ひだ荘川連獅子.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "ひだ荘川連獅子.jpg"; sourceTree = "<group>"; };
+		04458F381F471934000EAF28 /* ぶり街道祭り１.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "ぶり街道祭り１.jpg"; sourceTree = "<group>"; };
+		04458F391F471934000EAF28 /* ぶり街道祭り２.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "ぶり街道祭り２.jpg"; sourceTree = "<group>"; };
+		04458F3A1F471934000EAF28 /* キッチン飛騨.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "キッチン飛騨.jpg"; sourceTree = "<group>"; };
+		04458F3B1F471934000EAF28 /* キッチン飛騨飛騨牛.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "キッチン飛騨飛騨牛.jpg"; sourceTree = "<group>"; };
+		04458F3C1F471934000EAF28 /* タルマかねこおりライトアップ１.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "タルマかねこおりライトアップ１.jpg"; sourceTree = "<group>"; };
+		04458F3D1F471934000EAF28 /* タルマかねこおりライトアップ２.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "タルマかねこおりライトアップ２.jpg"; sourceTree = "<group>"; };
+		04458F3E1F471934000EAF28 /* トランブルー.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "トランブルー.jpg"; sourceTree = "<group>"; };
+		04458F3F1F471934000EAF28 /* トランブルークロワッサン.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "トランブルークロワッサン.jpg"; sourceTree = "<group>"; };
+		04458F401F471934000EAF28 /* ハンバーガー.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "ハンバーガー.jpeg"; sourceTree = "<group>"; };
+		04458F411F471934000EAF28 /* ライトアップ新穂高.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "ライトアップ新穂高.jpg"; sourceTree = "<group>"; };
+		04458F421F471934000EAF28 /* ラーメン.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "ラーメン.jpeg"; sourceTree = "<group>"; };
+		04458F431F471934000EAF28 /* 丸明飛騨高山店.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "丸明飛騨高山店.jpg"; sourceTree = "<group>"; };
+		04458F441F471934000EAF28 /* 丸明飛騨高山店飛騨牛.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "丸明飛騨高山店飛騨牛.jpg"; sourceTree = "<group>"; };
+		04458F451F471934000EAF28 /* 丹生川夏まつり.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "丹生川夏まつり.jpg"; sourceTree = "<group>"; };
+		04458F461F471934000EAF28 /* 二十四日市.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "二十四日市.jpg"; sourceTree = "<group>"; };
+		04458F471F471934000EAF28 /* 二四三屋.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "二四三屋.jpg"; sourceTree = "<group>"; };
+		04458F481F471934000EAF28 /* 二四三屋みたらし団子.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "二四三屋みたらし団子.jpg"; sourceTree = "<group>"; };
+		04458F491F471934000EAF28 /* 刀彫-01.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "刀彫-01.jpg"; sourceTree = "<group>"; };
+		04458F4A1F471934000EAF28 /* 切り絵-02.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "切り絵-02.jpg"; sourceTree = "<group>"; };
+		04458F4B1F471934000EAF28 /* 千光寺.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "千光寺.jpg"; sourceTree = "<group>"; };
+		04458F4C1F471934000EAF28 /* 吉島家住宅.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "吉島家住宅.jpg"; sourceTree = "<group>"; };
+		04458F4D1F471934000EAF28 /* 在郷料理02.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "在郷料理02.JPG"; sourceTree = "<group>"; };
+		04458F4E1F471934000EAF28 /* 城山公園.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "城山公園.jpg"; sourceTree = "<group>"; };
+		04458F4F1F471934000EAF28 /* 堂之上遺跡.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "堂之上遺跡.jpg"; sourceTree = "<group>"; };
+		04458F501F471934000EAF28 /* 堂之上遺跡２.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "堂之上遺跡２.jpg"; sourceTree = "<group>"; };
+		04458F511F471934000EAF28 /* 塩沢温泉七峰館.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "塩沢温泉七峰館.jpg"; sourceTree = "<group>"; };
+		04458F521F471934000EAF28 /* 宮地家住宅.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "宮地家住宅.jpg"; sourceTree = "<group>"; };
+		04458F531F471934000EAF28 /* 宿儺の湯.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "宿儺の湯.jpg"; sourceTree = "<group>"; };
+		04458F541F471934000EAF28 /* 小糸焼.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "小糸焼.jpg"; sourceTree = "<group>"; };
+		04458F551F471934000EAF28 /* 山中和紙-02.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "山中和紙-02.JPG"; sourceTree = "<group>"; };
+		04458F561F471934000EAF28 /* 山桜神社絵馬市１.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "山桜神社絵馬市１.jpg"; sourceTree = "<group>"; };
+		04458F571F471934000EAF28 /* 山桜神社絵馬市２.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "山桜神社絵馬市２.jpg"; sourceTree = "<group>"; };
+		04458F581F471934000EAF28 /* 山田焼.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "山田焼.jpg"; sourceTree = "<group>"; };
+		04458F591F471934000EAF28 /* 市政記念館.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "市政記念館.jpg"; sourceTree = "<group>"; };
+		04458F5A1F471934000EAF28 /* 年の瀬市１.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "年の瀬市１.jpg"; sourceTree = "<group>"; };
+		04458F5B1F471934000EAF28 /* 年の瀬市２.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "年の瀬市２.jpg"; sourceTree = "<group>"; };
+		04458F5C1F471934000EAF28 /* 思い出体験館１.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "思い出体験館１.jpg"; sourceTree = "<group>"; };
+		04458F5D1F471934000EAF28 /* 思い出体験館２.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "思い出体験館２.jpg"; sourceTree = "<group>"; };
+		04458F5E1F471934000EAF28 /* 我楽多市.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "我楽多市.jpg"; sourceTree = "<group>"; };
+		04458F5F1F471934000EAF28 /* 我楽多市２.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "我楽多市２.jpg"; sourceTree = "<group>"; };
+		04458F601F471934000EAF28 /* 手筒花火１.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "手筒花火１.jpg"; sourceTree = "<group>"; };
+		04458F611F471934000EAF28 /* 手筒花火２.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "手筒花火２.jpg"; sourceTree = "<group>"; };
+		04458F621F471934000EAF28 /* 手筒花火３.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "手筒花火３.jpg"; sourceTree = "<group>"; };
+		04458F631F471934000EAF28 /* 手筒花火４.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "手筒花火４.jpg"; sourceTree = "<group>"; };
+		04458F641F471934000EAF28 /* 手長.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "手長.jpg"; sourceTree = "<group>"; };
+		04458F651F471934000EAF28 /* 播隆祭.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "播隆祭.jpg"; sourceTree = "<group>"; };
+		04458F661F471934000EAF28 /* 新穂高の湯.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "新穂高の湯.jpg"; sourceTree = "<group>"; };
+		04458F671F471934000EAF28 /* 日下部民藝館.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "日下部民藝館.jpg"; sourceTree = "<group>"; };
+		04458F681F471934000EAF28 /* 日下部民藝館２.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "日下部民藝館２.jpg"; sourceTree = "<group>"; };
+		04458F691F471934000EAF28 /* 松倉山.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "松倉山.jpg"; sourceTree = "<group>"; };
+		04458F6A1F471934000EAF28 /* 松本家.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "松本家.jpg"; sourceTree = "<group>"; };
+		04458F6B1F471934000EAF28 /* 桜山八幡宮.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "桜山八幡宮.jpg"; sourceTree = "<group>"; };
+		04458F6C1F471934000EAF28 /* 桜香の湯.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "桜香の湯.jpg"; sourceTree = "<group>"; };
+		04458F6D1F471934000EAF28 /* 江名子川七夕飾り１.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "江名子川七夕飾り１.jpg"; sourceTree = "<group>"; };
+		04458F6E1F471934000EAF28 /* 江名子川七夕飾り２.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "江名子川七夕飾り２.jpg"; sourceTree = "<group>"; };
+		04458F6F1F471934000EAF28 /* 清峯寺円空仏.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "清峯寺円空仏.jpg"; sourceTree = "<group>"; };
+		04458F701F471934000EAF28 /* 渋草焼１.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "渋草焼１.jpg"; sourceTree = "<group>"; };
+		04458F711F471934000EAF28 /* 渋草焼２.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "渋草焼２.jpg"; sourceTree = "<group>"; };
+		04458F721F471934000EAF28 /* 渋草焼３.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "渋草焼３.jpg"; sourceTree = "<group>"; };
+		04458F731F471934000EAF28 /* 甚五郎らーめん.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "甚五郎らーめん.jpg"; sourceTree = "<group>"; };
+		04458F741F471934000EAF28 /* 甚五郎らーめん高山ラーメンjpg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "甚五郎らーめん高山ラーメンjpg.jpg"; sourceTree = "<group>"; };
+		04458F751F471934000EAF28 /* 生きびな祭り１.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "生きびな祭り１.jpg"; sourceTree = "<group>"; };
+		04458F761F471934000EAF28 /* 生きびな祭り２.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "生きびな祭り２.jpg"; sourceTree = "<group>"; };
+		04458F771F471934000EAF28 /* 荒城神社.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "荒城神社.jpg"; sourceTree = "<group>"; };
+		04458F781F471934000EAF28 /* 荒川家住宅.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "荒川家住宅.jpg"; sourceTree = "<group>"; };
+		04458F791F471934000EAF28 /* 足長.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "足長.jpg"; sourceTree = "<group>"; };
+		04458F7A1F471934000EAF28 /* 酒蔵めぐり１.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "酒蔵めぐり１.jpg"; sourceTree = "<group>"; };
+		04458F7B1F471934000EAF28 /* 酒蔵めぐり２.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "酒蔵めぐり２.jpg"; sourceTree = "<group>"; };
+		04458F7C1F471934000EAF28 /* 金蔵獅子.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "金蔵獅子.jpg"; sourceTree = "<group>"; };
+		04458F7D1F471934000EAF28 /* 陣屋前夜市１.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "陣屋前夜市１.jpg"; sourceTree = "<group>"; };
+		04458F7E1F471934000EAF28 /* 陣屋前夜市２.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "陣屋前夜市２.jpg"; sourceTree = "<group>"; };
+		04458F7F1F471934000EAF28 /* 陣屋前夜市３.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "陣屋前夜市３.jpg"; sourceTree = "<group>"; };
+		04458F801F471934000EAF28 /* 飛騨こって牛.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "飛騨こって牛.jpg"; sourceTree = "<group>"; };
+		04458F811F471934000EAF28 /* 飛騨こって牛握り寿司.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "飛騨こって牛握り寿司.jpg"; sourceTree = "<group>"; };
+		04458F821F471934000EAF28 /* 飛騨コロッケ.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "飛騨コロッケ.jpg"; sourceTree = "<group>"; };
+		04458F831F471934000EAF28 /* 飛騨一宮水無神社.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "飛騨一宮水無神社.jpg"; sourceTree = "<group>"; };
+		04458F841F471934000EAF28 /* 飛騨牛-01.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "飛騨牛-01.JPG"; sourceTree = "<group>"; };
+		04458F851F471934000EAF28 /* 高山城跡.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "高山城跡.jpg"; sourceTree = "<group>"; };
+		04458F861F471934000EAF28 /* 高山市役所庁舎.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "高山市役所庁舎.jpg"; sourceTree = "<group>"; };
+		04458F871F471934000EAF28 /* 高山陣屋１.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "高山陣屋１.jpg"; sourceTree = "<group>"; };
+		04458F881F471934000EAF28 /* 高山陣屋２.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "高山陣屋２.jpg"; sourceTree = "<group>"; };
+		04458F891F471934000EAF28 /* 魚.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "魚.jpeg"; sourceTree = "<group>"; };
+		04458F8A1F471934000EAF28 /* 鮎の塩焼き-02.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "鮎の塩焼き-02.JPG"; sourceTree = "<group>"; };
+		04458FE61F471C4E000EAF28 /* GalleryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GalleryViewController.swift; sourceTree = "<group>"; };
+		04458FE91F473A75000EAF28 /* CoreMotion.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMotion.framework; path = System/Library/Frameworks/CoreMotion.framework; sourceTree = SDKROOT; };
+		04458FEB1F47C345000EAF28 /* title2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = title2.wav; sourceTree = "<group>"; };
+		04458FEC1F47C345000EAF28 /* title1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = title1.wav; sourceTree = "<group>"; };
+		04458FEF1F47D00A000EAF28 /* b246a779002b849122e6afd81c9a36c5_t.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = b246a779002b849122e6afd81c9a36c5_t.jpeg; sourceTree = "<group>"; };
+		04458FF11F47DC63000EAF28 /* 364.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 364.png; sourceTree = "<group>"; };
+		04458FF31F47DF88000EAF28 /* 89.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 89.png; sourceTree = "<group>"; };
+		04458FF41F47DF90000EAF28 /* 464.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 464.png; sourceTree = "<group>"; };
 		0467FB331F46D81400787696 /* さるぼぼと歩く飛騨の観光地.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "さるぼぼと歩く飛騨の観光地.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0467FB361F46D81400787696 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0467FB381F46D81500787696 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		0467FB3B1F46D81500787696 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		0467FB3D1F46D81500787696 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0467FB401F46D81500787696 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0467FB421F46D81500787696 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -47,6 +247,10 @@
 		0467FB521F46D81500787696 /* さるぼぼと歩く飛騨の観光地UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "さるぼぼと歩く飛騨の観光地UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0467FB561F46D81500787696 /* _______________UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_______________UITests.swift"; sourceTree = "<group>"; };
 		0467FB581F46D81500787696 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0467FB641F46DCDF00787696 /* toy_hida_sarubobo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = toy_hida_sarubobo.png; sourceTree = "<group>"; };
+		0467FB651F46DF1300787696 /* MyLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyLabel.swift; sourceTree = "<group>"; };
+		0467FB681F46E6A400787696 /* Storyboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
+		A961CB5B1F4D1B8500B5FBF4 /* 2016_03_01-04.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "2016_03_01-04.jpg"; path = "Assets.xcassets/2016_03_01-4.imageset/2016_03_01-04.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +258,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04458FEA1F473A75000EAF28 /* CoreMotion.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -74,6 +279,116 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		04458F311F471934000EAF28 /* Pictures */ = {
+			isa = PBXGroup;
+			children = (
+				04458FEF1F47D00A000EAF28 /* b246a779002b849122e6afd81c9a36c5_t.jpeg */,
+				04458F321F471934000EAF28 /* 114514.gif */,
+				04458F331F471934000EAF28 /* 1919810.png */,
+				04458F341F471934000EAF28 /* toy_hida_sarubobo.png */,
+				04458F351F471934000EAF28 /* さるぼぼ.jpeg */,
+				04458F361F471934000EAF28 /* しぶきの湯・遊湯館.jpg */,
+				04458F371F471934000EAF28 /* ひだ荘川連獅子.jpg */,
+				04458F381F471934000EAF28 /* ぶり街道祭り１.jpg */,
+				04458F391F471934000EAF28 /* ぶり街道祭り２.jpg */,
+				04458F3A1F471934000EAF28 /* キッチン飛騨.jpg */,
+				04458F3B1F471934000EAF28 /* キッチン飛騨飛騨牛.jpg */,
+				04458F3C1F471934000EAF28 /* タルマかねこおりライトアップ１.jpg */,
+				04458F3D1F471934000EAF28 /* タルマかねこおりライトアップ２.jpg */,
+				04458F3E1F471934000EAF28 /* トランブルー.jpg */,
+				04458F3F1F471934000EAF28 /* トランブルークロワッサン.jpg */,
+				04458F401F471934000EAF28 /* ハンバーガー.jpeg */,
+				04458F411F471934000EAF28 /* ライトアップ新穂高.jpg */,
+				04458F421F471934000EAF28 /* ラーメン.jpeg */,
+				04458F431F471934000EAF28 /* 丸明飛騨高山店.jpg */,
+				04458F441F471934000EAF28 /* 丸明飛騨高山店飛騨牛.jpg */,
+				04458F451F471934000EAF28 /* 丹生川夏まつり.jpg */,
+				04458F461F471934000EAF28 /* 二十四日市.jpg */,
+				04458F471F471934000EAF28 /* 二四三屋.jpg */,
+				04458F481F471934000EAF28 /* 二四三屋みたらし団子.jpg */,
+				04458F491F471934000EAF28 /* 刀彫-01.jpg */,
+				04458F4A1F471934000EAF28 /* 切り絵-02.jpg */,
+				04458F4B1F471934000EAF28 /* 千光寺.jpg */,
+				04458F4C1F471934000EAF28 /* 吉島家住宅.jpg */,
+				04458F4D1F471934000EAF28 /* 在郷料理02.JPG */,
+				04458F4E1F471934000EAF28 /* 城山公園.jpg */,
+				04458F4F1F471934000EAF28 /* 堂之上遺跡.jpg */,
+				04458F501F471934000EAF28 /* 堂之上遺跡２.jpg */,
+				04458F511F471934000EAF28 /* 塩沢温泉七峰館.jpg */,
+				04458F521F471934000EAF28 /* 宮地家住宅.jpg */,
+				04458F531F471934000EAF28 /* 宿儺の湯.jpg */,
+				04458F541F471934000EAF28 /* 小糸焼.jpg */,
+				04458F551F471934000EAF28 /* 山中和紙-02.JPG */,
+				04458F561F471934000EAF28 /* 山桜神社絵馬市１.jpg */,
+				04458F571F471934000EAF28 /* 山桜神社絵馬市２.jpg */,
+				04458F581F471934000EAF28 /* 山田焼.jpg */,
+				04458F591F471934000EAF28 /* 市政記念館.jpg */,
+				04458F5A1F471934000EAF28 /* 年の瀬市１.jpg */,
+				04458F5B1F471934000EAF28 /* 年の瀬市２.jpg */,
+				04458F5C1F471934000EAF28 /* 思い出体験館１.jpg */,
+				04458F5D1F471934000EAF28 /* 思い出体験館２.jpg */,
+				04458F5E1F471934000EAF28 /* 我楽多市.jpg */,
+				04458F5F1F471934000EAF28 /* 我楽多市２.jpg */,
+				04458F601F471934000EAF28 /* 手筒花火１.jpg */,
+				04458F611F471934000EAF28 /* 手筒花火２.jpg */,
+				04458F621F471934000EAF28 /* 手筒花火３.jpg */,
+				04458F631F471934000EAF28 /* 手筒花火４.jpg */,
+				04458F641F471934000EAF28 /* 手長.jpg */,
+				04458F651F471934000EAF28 /* 播隆祭.jpg */,
+				04458F661F471934000EAF28 /* 新穂高の湯.jpg */,
+				04458F671F471934000EAF28 /* 日下部民藝館.jpg */,
+				04458F681F471934000EAF28 /* 日下部民藝館２.jpg */,
+				04458F691F471934000EAF28 /* 松倉山.jpg */,
+				04458F6A1F471934000EAF28 /* 松本家.jpg */,
+				04458F6B1F471934000EAF28 /* 桜山八幡宮.jpg */,
+				04458F6C1F471934000EAF28 /* 桜香の湯.jpg */,
+				04458F6D1F471934000EAF28 /* 江名子川七夕飾り１.jpg */,
+				04458F6E1F471934000EAF28 /* 江名子川七夕飾り２.jpg */,
+				04458F6F1F471934000EAF28 /* 清峯寺円空仏.jpg */,
+				04458F701F471934000EAF28 /* 渋草焼１.jpg */,
+				04458F711F471934000EAF28 /* 渋草焼２.jpg */,
+				04458F721F471934000EAF28 /* 渋草焼３.jpg */,
+				04458F731F471934000EAF28 /* 甚五郎らーめん.jpg */,
+				04458F741F471934000EAF28 /* 甚五郎らーめん高山ラーメンjpg.jpg */,
+				04458F751F471934000EAF28 /* 生きびな祭り１.jpg */,
+				04458F761F471934000EAF28 /* 生きびな祭り２.jpg */,
+				04458F771F471934000EAF28 /* 荒城神社.jpg */,
+				04458F781F471934000EAF28 /* 荒川家住宅.jpg */,
+				04458F791F471934000EAF28 /* 足長.jpg */,
+				04458F7A1F471934000EAF28 /* 酒蔵めぐり１.jpg */,
+				04458F7B1F471934000EAF28 /* 酒蔵めぐり２.jpg */,
+				04458F7C1F471934000EAF28 /* 金蔵獅子.jpg */,
+				04458F7D1F471934000EAF28 /* 陣屋前夜市１.jpg */,
+				04458F7E1F471934000EAF28 /* 陣屋前夜市２.jpg */,
+				04458F7F1F471934000EAF28 /* 陣屋前夜市３.jpg */,
+				04458F801F471934000EAF28 /* 飛騨こって牛.jpg */,
+				04458F811F471934000EAF28 /* 飛騨こって牛握り寿司.jpg */,
+				04458F821F471934000EAF28 /* 飛騨コロッケ.jpg */,
+				04458F831F471934000EAF28 /* 飛騨一宮水無神社.jpg */,
+				04458F841F471934000EAF28 /* 飛騨牛-01.JPG */,
+				04458F851F471934000EAF28 /* 高山城跡.jpg */,
+				04458F861F471934000EAF28 /* 高山市役所庁舎.jpg */,
+				04458F871F471934000EAF28 /* 高山陣屋１.jpg */,
+				04458F881F471934000EAF28 /* 高山陣屋２.jpg */,
+				04458F891F471934000EAF28 /* 魚.jpeg */,
+				04458F8A1F471934000EAF28 /* 鮎の塩焼き-02.JPG */,
+				04458FF11F47DC63000EAF28 /* 364.png */,
+				04458FF31F47DF88000EAF28 /* 89.png */,
+				04458FF41F47DF90000EAF28 /* 464.png */,
+				04458FEC1F47C345000EAF28 /* title1.wav */,
+				04458FEB1F47C345000EAF28 /* title2.wav */,
+			);
+			path = Pictures;
+			sourceTree = "<group>";
+		};
+		04458FE81F473A74000EAF28 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				04458FE91F473A75000EAF28 /* CoreMotion.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		0467FB2A1F46D81400787696 = {
 			isa = PBXGroup;
 			children = (
@@ -81,6 +396,7 @@
 				0467FB4A1F46D81500787696 /* さるぼぼと歩く飛騨の観光地Tests */,
 				0467FB551F46D81500787696 /* さるぼぼと歩く飛騨の観光地UITests */,
 				0467FB341F46D81400787696 /* Products */,
+				04458FE81F473A74000EAF28 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -97,12 +413,20 @@
 		0467FB351F46D81400787696 /* さるぼぼと歩く飛騨の観光地 */ = {
 			isa = PBXGroup;
 			children = (
+				04458F311F471934000EAF28 /* Pictures */,
+				0467FB681F46E6A400787696 /* Storyboard.storyboard */,
 				0467FB361F46D81400787696 /* AppDelegate.swift */,
 				0467FB381F46D81500787696 /* ViewController.swift */,
-				0467FB3A1F46D81500787696 /* Main.storyboard */,
+				04458F301F4712AB000EAF28 /* 1919810.png */,
 				0467FB3D1F46D81500787696 /* Assets.xcassets */,
+				A961CB5B1F4D1B8500B5FBF4 /* 2016_03_01-04.jpg */,
+				04458F2B1F46FFBC000EAF28 /* 114514.gif */,
+				0467FB641F46DCDF00787696 /* toy_hida_sarubobo.png */,
 				0467FB3F1F46D81500787696 /* LaunchScreen.storyboard */,
 				0467FB421F46D81500787696 /* Info.plist */,
+				0467FB651F46DF1300787696 /* MyLabel.swift */,
+				04458F2D1F47102B000EAF28 /* galleryViewController.swift */,
+				04458FE61F471C4E000EAF28 /* GalleryViewController.swift */,
 			);
 			path = "さるぼぼと歩く飛騨の観光地";
 			sourceTree = "<group>";
@@ -229,9 +553,106 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04458FE01F471A3E000EAF28 /* 高山陣屋１.jpg in Resources */,
+				04458FB11F4719B5000EAF28 /* 山田焼.jpg in Resources */,
+				04458FA01F471983000EAF28 /* 二四三屋.jpg in Resources */,
 				0467FB411F46D81500787696 /* LaunchScreen.storyboard in Resources */,
+				04458FD61F471A21000EAF28 /* 陣屋前夜市１.jpg in Resources */,
+				04458F8B1F471949000EAF28 /* 114514.gif in Resources */,
+				04458FAF1F4719AF000EAF28 /* 山桜神社絵馬市１.jpg in Resources */,
+				04458FB61F4719C2000EAF28 /* 思い出体験館２.jpg in Resources */,
+				04458FC61F4719F1000EAF28 /* 江名子川七夕飾り１.jpg in Resources */,
+				04458FBE1F4719DB000EAF28 /* 播隆祭.jpg in Resources */,
+				04458F9E1F47197E000EAF28 /* 丹生川夏まつり.jpg in Resources */,
 				0467FB3E1F46D81500787696 /* Assets.xcassets in Resources */,
-				0467FB3C1F46D81500787696 /* Main.storyboard in Resources */,
+				04458FC01F4719E0000EAF28 /* 日下部民藝館.jpg in Resources */,
+				04458FB51F4719C0000EAF28 /* 思い出体験館１.jpg in Resources */,
+				04458FC91F4719FE000EAF28 /* 渋草焼１.jpg in Resources */,
+				04458FF01F47D012000EAF28 /* b246a779002b849122e6afd81c9a36c5_t.jpeg in Resources */,
+				04458FC81F4719F7000EAF28 /* 清峯寺円空仏.jpg in Resources */,
+				04458F9D1F47197B000EAF28 /* 丸明飛騨高山店飛騨牛.jpg in Resources */,
+				04458FBD1F4719D7000EAF28 /* 手長.jpg in Resources */,
+				04458FAA1F4719A2000EAF28 /* 塩沢温泉七峰館.jpg in Resources */,
+				04458F911F47195B000EAF28 /* ぶり街道祭り１.jpg in Resources */,
+				04458FCB1F471A02000EAF28 /* 渋草焼３.jpg in Resources */,
+				04458FCC1F471A05000EAF28 /* 甚五郎らーめん.jpg in Resources */,
+				04458FC41F4719EC000EAF28 /* 桜山八幡宮.jpg in Resources */,
+				04458FDB1F471A30000EAF28 /* 飛騨コロッケ.jpg in Resources */,
+				04458FF21F47DF79000EAF28 /* 364.png in Resources */,
+				04458FA71F471999000EAF28 /* 城山公園.jpg in Resources */,
+				04458FBC1F4719D5000EAF28 /* 手筒花火４.jpg in Resources */,
+				04458F991F471971000EAF28 /* ライトアップ新穂高.jpg in Resources */,
+				04458FE11F471A41000EAF28 /* 高山陣屋２.jpg in Resources */,
+				04458FA31F47198B000EAF28 /* 切り絵-02.jpg in Resources */,
+				04458FAB1F4719A5000EAF28 /* 宮地家住宅.jpg in Resources */,
+				04458F8C1F47194D000EAF28 /* 1919810.png in Resources */,
+				04458FDC1F471A33000EAF28 /* 飛騨一宮水無神社.jpg in Resources */,
+				04458FD01F471A11000EAF28 /* 荒城神社.jpg in Resources */,
+				04458FDA1F471A2C000EAF28 /* 飛騨こって牛握り寿司.jpg in Resources */,
+				04458FED1F47C367000EAF28 /* title2.wav in Resources */,
+				04458FAC1F4719A7000EAF28 /* 宿儺の湯.jpg in Resources */,
+				04458FD51F471A1E000EAF28 /* 金蔵獅子.jpg in Resources */,
+				04458FCD1F471A08000EAF28 /* 甚五郎らーめん高山ラーメンjpg.jpg in Resources */,
+				04458FA21F471988000EAF28 /* 刀彫-01.jpg in Resources */,
+				04458F981F47196F000EAF28 /* トランブルークロワッサン.jpg in Resources */,
+				04458FCF1F471A0E000EAF28 /* 生きびな祭り２.jpg in Resources */,
+				04458FC11F4719E3000EAF28 /* 日下部民藝館２.jpg in Resources */,
+				04458FF51F47DF98000EAF28 /* 89.png in Resources */,
+				04458FDE1F471A38000EAF28 /* 高山城跡.jpg in Resources */,
+				04458F961F471969000EAF28 /* タルマかねこおりライトアップ２.jpg in Resources */,
+				04458FDF1F471A3B000EAF28 /* 高山市役所庁舎.jpg in Resources */,
+				04458F2C1F470191000EAF28 /* 114514.gif in Resources */,
+				04458FE31F471A47000EAF28 /* 鮎の塩焼き-02.JPG in Resources */,
+				04458FC51F4719EF000EAF28 /* 桜香の湯.jpg in Resources */,
+				04458FAD1F4719AA000EAF28 /* 小糸焼.jpg in Resources */,
+				04458FCA1F471A00000EAF28 /* 渋草焼２.jpg in Resources */,
+				04458FBA1F4719CE000EAF28 /* 手筒花火２.jpg in Resources */,
+				04458FDD1F471A35000EAF28 /* 飛騨牛-01.JPG in Resources */,
+				046030161F46F3DE00851AD7 /* Storyboard.storyboard in Resources */,
+				04458F9B1F471976000EAF28 /* ラーメン.jpeg in Resources */,
+				04458F931F471961000EAF28 /* キッチン飛騨.jpg in Resources */,
+				04458FB01F4719B3000EAF28 /* 山桜神社絵馬市２.jpg in Resources */,
+				04458F9A1F471973000EAF28 /* ハンバーガー.jpeg in Resources */,
+				04458FB21F4719B8000EAF28 /* 市政記念館.jpg in Resources */,
+				04458FCE1F471A0B000EAF28 /* 生きびな祭り１.jpg in Resources */,
+				04458F9F1F471980000EAF28 /* 二十四日市.jpg in Resources */,
+				04458F8D1F47194F000EAF28 /* toy_hida_sarubobo.png in Resources */,
+				04458FB91F4719CB000EAF28 /* 手筒花火１.jpg in Resources */,
+				04458F941F471964000EAF28 /* キッチン飛騨飛騨牛.jpg in Resources */,
+				04458FEE1F47C36A000EAF28 /* title1.wav in Resources */,
+				04458FD21F471A15000EAF28 /* 足長.jpg in Resources */,
+				04458FA11F471985000EAF28 /* 二四三屋みたらし団子.jpg in Resources */,
+				04458FB71F4719C5000EAF28 /* 我楽多市.jpg in Resources */,
+				04458FE21F471A44000EAF28 /* 魚.jpeg in Resources */,
+				04458FD11F471A13000EAF28 /* 荒川家住宅.jpg in Resources */,
+				04458FD31F471A18000EAF28 /* 酒蔵めぐり１.jpg in Resources */,
+				04458FBF1F4719DD000EAF28 /* 新穂高の湯.jpg in Resources */,
+				04458F971F47196C000EAF28 /* トランブルー.jpg in Resources */,
+				04458FB31F4719BA000EAF28 /* 年の瀬市２.jpg in Resources */,
+				04458F8E1F471952000EAF28 /* さるぼぼ.jpeg in Resources */,
+				04458FC31F4719E9000EAF28 /* 松本家.jpg in Resources */,
+				04458FA41F47198E000EAF28 /* 千光寺.jpg in Resources */,
+				04458FA81F47199C000EAF28 /* 堂之上遺跡.jpg in Resources */,
+				04458FD81F471A27000EAF28 /* 陣屋前夜市３.jpg in Resources */,
+				04458FA61F471992000EAF28 /* 在郷料理02.JPG in Resources */,
+				04458FC71F4719F4000EAF28 /* 江名子川七夕飾り２.jpg in Resources */,
+				04458FA91F47199F000EAF28 /* 堂之上遺跡２.jpg in Resources */,
+				04458FD41F471A1B000EAF28 /* 酒蔵めぐり２.jpg in Resources */,
+				04458F901F471957000EAF28 /* ひだ荘川連獅子.jpg in Resources */,
+				04458FD91F471A29000EAF28 /* 飛騨こって牛.jpg in Resources */,
+				04458FD71F471A24000EAF28 /* 陣屋前夜市２.jpg in Resources */,
+				04458FA51F471990000EAF28 /* 吉島家住宅.jpg in Resources */,
+				04458F951F471967000EAF28 /* タルマかねこおりライトアップ１.jpg in Resources */,
+				04458FAE1F4719AC000EAF28 /* 山中和紙-02.JPG in Resources */,
+				04458F921F47195E000EAF28 /* ぶり街道祭り２.jpg in Resources */,
+				04458FC21F4719E5000EAF28 /* 松倉山.jpg in Resources */,
+				04458FF81F480DC0000EAF28 /* toy_hida_sarubobo.png in Resources */,
+				04458FF61F47DF9B000EAF28 /* 464.png in Resources */,
+				04458FB81F4719C8000EAF28 /* 我楽多市２.jpg in Resources */,
+				04458FBB1F4719D2000EAF28 /* 手筒花火３.jpg in Resources */,
+				04458FB41F4719BD000EAF28 /* 年の瀬市１.jpg in Resources */,
+				04458F8F1F471954000EAF28 /* しぶきの湯・遊湯館.jpg in Resources */,
+				04458F9C1F471978000EAF28 /* 丸明飛騨高山店.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -257,7 +678,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				0467FB391F46D81500787696 /* ViewController.swift in Sources */,
+				04458F2E1F47102B000EAF28 /* galleryViewController.swift in Sources */,
+				04458FE71F471C4E000EAF28 /* GalleryViewController.swift in Sources */,
 				0467FB371F46D81400787696 /* AppDelegate.swift in Sources */,
+				0467FB661F46DF1300787696 /* MyLabel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -293,14 +717,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		0467FB3A1F46D81500787696 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				0467FB3B1F46D81500787696 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		0467FB3F1F46D81500787696 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -423,7 +839,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 9HLK3H548W;
 				INFOPLIST_FILE = "さるぼぼと歩く飛騨の観光地/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "net.mobilecore.---------------";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -436,7 +854,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 9HLK3H548W;
 				INFOPLIST_FILE = "さるぼぼと歩く飛騨の観光地/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "net.mobilecore.---------------";
 				PRODUCT_NAME = "$(TARGET_NAME)";

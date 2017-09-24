@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "0830"
+   version = "1.3">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "0467FB321F46D81400787696"
+               BuildableName = "&#x3055;&#x308b;&#x307b;&#x3099;&#x307b;&#x3099;&#x3068;&#x6b69;&#x304f;&#x98db;&#x9a28;&#x306e;&#x89b3;&#x5149;&#x5730;.app"
+               BlueprintName = "&#x3055;&#x308b;&#x307b;&#x3099;&#x307b;&#x3099;&#x3068;&#x6b69;&#x304f;&#x98db;&#x9a28;&#x306e;&#x89b3;&#x5149;&#x5730;"
+               ReferencedContainer = "container:&#x3055;&#x308b;&#x307b;&#x3099;&#x307b;&#x3099;&#x3068;&#x6b69;&#x304f;&#x98db;&#x9a28;&#x306e;&#x89b3;&#x5149;&#x5730;.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES">
+      <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "0467FB461F46D81500787696"
+               BuildableName = "&#x3055;&#x308b;&#x307b;&#x3099;&#x307b;&#x3099;&#x3068;&#x6b69;&#x304f;&#x98db;&#x9a28;&#x306e;&#x89b3;&#x5149;&#x5730;Tests.xctest"
+               BlueprintName = "&#x3055;&#x308b;&#x307b;&#x3099;&#x307b;&#x3099;&#x3068;&#x6b69;&#x304f;&#x98db;&#x9a28;&#x306e;&#x89b3;&#x5149;&#x5730;Tests"
+               ReferencedContainer = "container:&#x3055;&#x308b;&#x307b;&#x3099;&#x307b;&#x3099;&#x3068;&#x6b69;&#x304f;&#x98db;&#x9a28;&#x306e;&#x89b3;&#x5149;&#x5730;.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "0467FB511F46D81500787696"
+               BuildableName = "&#x3055;&#x308b;&#x307b;&#x3099;&#x307b;&#x3099;&#x3068;&#x6b69;&#x304f;&#x98db;&#x9a28;&#x306e;&#x89b3;&#x5149;&#x5730;UITests.xctest"
+               BlueprintName = "&#x3055;&#x308b;&#x307b;&#x3099;&#x307b;&#x3099;&#x3068;&#x6b69;&#x304f;&#x98db;&#x9a28;&#x306e;&#x89b3;&#x5149;&#x5730;UITests"
+               ReferencedContainer = "container:&#x3055;&#x308b;&#x307b;&#x3099;&#x307b;&#x3099;&#x3068;&#x6b69;&#x304f;&#x98db;&#x9a28;&#x306e;&#x89b3;&#x5149;&#x5730;.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+      </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "0467FB321F46D81400787696"
+            BuildableName = "&#x3055;&#x308b;&#x307b;&#x3099;&#x307b;&#x3099;&#x3068;&#x6b69;&#x304f;&#x98db;&#x9a28;&#x306e;&#x89b3;&#x5149;&#x5730;.app"
+            BlueprintName = "&#x3055;&#x308b;&#x307b;&#x3099;&#x307b;&#x3099;&#x3068;&#x6b69;&#x304f;&#x98db;&#x9a28;&#x306e;&#x89b3;&#x5149;&#x5730;"
+            ReferencedContainer = "container:&#x3055;&#x308b;&#x307b;&#x3099;&#x307b;&#x3099;&#x3068;&#x6b69;&#x304f;&#x98db;&#x9a28;&#x306e;&#x89b3;&#x5149;&#x5730;.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </TestAction>
+   <LaunchAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      debugServiceExtension = "internal"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "0467FB321F46D81400787696"
+            BuildableName = "&#x3055;&#x308b;&#x307b;&#x3099;&#x307b;&#x3099;&#x3068;&#x6b69;&#x304f;&#x98db;&#x9a28;&#x306e;&#x89b3;&#x5149;&#x5730;.app"
+            BlueprintName = "&#x3055;&#x308b;&#x307b;&#x3099;&#x307b;&#x3099;&#x3068;&#x6b69;&#x304f;&#x98db;&#x9a28;&#x306e;&#x89b3;&#x5149;&#x5730;"
+            ReferencedContainer = "container:&#x3055;&#x308b;&#x307b;&#x3099;&#x307b;&#x3099;&#x3068;&#x6b69;&#x304f;&#x98db;&#x9a28;&#x306e;&#x89b3;&#x5149;&#x5730;.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </LaunchAction>
+   <ProfileAction
+      buildConfiguration = "Release"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "0467FB321F46D81400787696"
+            BuildableName = "&#x3055;&#x308b;&#x307b;&#x3099;&#x307b;&#x3099;&#x3068;&#x6b69;&#x304f;&#x98db;&#x9a28;&#x306e;&#x89b3;&#x5149;&#x5730;.app"
+            BlueprintName = "&#x3055;&#x308b;&#x307b;&#x3099;&#x307b;&#x3099;&#x3068;&#x6b69;&#x304f;&#x98db;&#x9a28;&#x306e;&#x89b3;&#x5149;&#x5730;"
+            ReferencedContainer = "container:&#x3055;&#x308b;&#x307b;&#x3099;&#x307b;&#x3099;&#x3068;&#x6b69;&#x304f;&#x98db;&#x9a28;&#x306e;&#x89b3;&#x5149;&#x5730;.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>
