@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		04458F2C1F470191000EAF28 /* 114514.gif in Resources */ = {isa = PBXBuildFile; fileRef = 04458F2B1F46FFBC000EAF28 /* 114514.gif */; };
 		04458F2E1F47102B000EAF28 /* galleryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04458F2D1F47102B000EAF28 /* galleryViewController.swift */; };
 		04458F8B1F471949000EAF28 /* 114514.gif in Resources */ = {isa = PBXBuildFile; fileRef = 04458F321F471934000EAF28 /* 114514.gif */; };
 		04458F8C1F47194D000EAF28 /* 1919810.png in Resources */ = {isa = PBXBuildFile; fileRef = 04458F331F471934000EAF28 /* 1919810.png */; };
@@ -106,7 +105,6 @@
 		04458FF21F47DF79000EAF28 /* 364.png in Resources */ = {isa = PBXBuildFile; fileRef = 04458FF11F47DC63000EAF28 /* 364.png */; };
 		04458FF51F47DF98000EAF28 /* 89.png in Resources */ = {isa = PBXBuildFile; fileRef = 04458FF31F47DF88000EAF28 /* 89.png */; };
 		04458FF61F47DF9B000EAF28 /* 464.png in Resources */ = {isa = PBXBuildFile; fileRef = 04458FF41F47DF90000EAF28 /* 464.png */; };
-		04458FF81F480DC0000EAF28 /* toy_hida_sarubobo.png in Resources */ = {isa = PBXBuildFile; fileRef = 0467FB641F46DCDF00787696 /* toy_hida_sarubobo.png */; };
 		046030161F46F3DE00851AD7 /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0467FB681F46E6A400787696 /* Storyboard.storyboard */; };
 		0467FB371F46D81400787696 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0467FB361F46D81400787696 /* AppDelegate.swift */; };
 		0467FB391F46D81500787696 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0467FB381F46D81500787696 /* ViewController.swift */; };
@@ -115,6 +113,9 @@
 		0467FB4C1F46D81500787696 /* _______________Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0467FB4B1F46D81500787696 /* _______________Tests.swift */; };
 		0467FB571F46D81500787696 /* _______________UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0467FB561F46D81500787696 /* _______________UITests.swift */; };
 		0467FB661F46DF1300787696 /* MyLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0467FB651F46DF1300787696 /* MyLabel.swift */; };
+		DA0D1FE21FA456BB00884598 /* DescriptionView.xib in Resources */ = {isa = PBXBuildFile; fileRef = DA0D1FE11FA456BB00884598 /* DescriptionView.xib */; };
+		DA0D1FE41FA46D6000884598 /* discription.png in Resources */ = {isa = PBXBuildFile; fileRef = DA0D1FE31FA46D5C00884598 /* discription.png */; };
+		DAF48FC91FA47D1C0074BC2D /* DescriptionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAF48FC81FA47D1C0074BC2D /* DescriptionView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -135,9 +136,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		04458F2B1F46FFBC000EAF28 /* 114514.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 114514.gif; sourceTree = "<group>"; };
 		04458F2D1F47102B000EAF28 /* galleryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = galleryViewController.swift; path = ../galleryViewController.swift; sourceTree = "<group>"; };
-		04458F301F4712AB000EAF28 /* 1919810.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1919810.png; sourceTree = "<group>"; };
 		04458F321F471934000EAF28 /* 114514.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 114514.gif; sourceTree = "<group>"; };
 		04458F331F471934000EAF28 /* 1919810.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1919810.png; sourceTree = "<group>"; };
 		04458F341F471934000EAF28 /* toy_hida_sarubobo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = toy_hida_sarubobo.png; sourceTree = "<group>"; };
@@ -247,10 +246,12 @@
 		0467FB521F46D81500787696 /* さるぼぼと歩く飛騨の観光地UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "さるぼぼと歩く飛騨の観光地UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0467FB561F46D81500787696 /* _______________UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "_______________UITests.swift"; sourceTree = "<group>"; };
 		0467FB581F46D81500787696 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		0467FB641F46DCDF00787696 /* toy_hida_sarubobo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = toy_hida_sarubobo.png; sourceTree = "<group>"; };
 		0467FB651F46DF1300787696 /* MyLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyLabel.swift; sourceTree = "<group>"; };
 		0467FB681F46E6A400787696 /* Storyboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
 		A961CB5B1F4D1B8500B5FBF4 /* 2016_03_01-04.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "2016_03_01-04.jpg"; path = "Assets.xcassets/2016_03_01-4.imageset/2016_03_01-04.jpg"; sourceTree = "<group>"; };
+		DA0D1FE11FA456BB00884598 /* DescriptionView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = DescriptionView.xib; sourceTree = "<group>"; };
+		DA0D1FE31FA46D5C00884598 /* discription.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = discription.png; sourceTree = "<group>"; };
+		DAF48FC81FA47D1C0074BC2D /* DescriptionView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DescriptionView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -415,13 +416,13 @@
 			children = (
 				04458F311F471934000EAF28 /* Pictures */,
 				0467FB681F46E6A400787696 /* Storyboard.storyboard */,
+				DA0D1FE11FA456BB00884598 /* DescriptionView.xib */,
 				0467FB361F46D81400787696 /* AppDelegate.swift */,
 				0467FB381F46D81500787696 /* ViewController.swift */,
-				04458F301F4712AB000EAF28 /* 1919810.png */,
+				DAF48FC81FA47D1C0074BC2D /* DescriptionView.swift */,
 				0467FB3D1F46D81500787696 /* Assets.xcassets */,
 				A961CB5B1F4D1B8500B5FBF4 /* 2016_03_01-04.jpg */,
-				04458F2B1F46FFBC000EAF28 /* 114514.gif */,
-				0467FB641F46DCDF00787696 /* toy_hida_sarubobo.png */,
+				DA0D1FE31FA46D5C00884598 /* discription.png */,
 				0467FB3F1F46D81500787696 /* LaunchScreen.storyboard */,
 				0467FB421F46D81500787696 /* Info.plist */,
 				0467FB651F46DF1300787696 /* MyLabel.swift */,
@@ -559,6 +560,7 @@
 				0467FB411F46D81500787696 /* LaunchScreen.storyboard in Resources */,
 				04458FD61F471A21000EAF28 /* 陣屋前夜市１.jpg in Resources */,
 				04458F8B1F471949000EAF28 /* 114514.gif in Resources */,
+				DA0D1FE41FA46D6000884598 /* discription.png in Resources */,
 				04458FAF1F4719AF000EAF28 /* 山桜神社絵馬市１.jpg in Resources */,
 				04458FB61F4719C2000EAF28 /* 思い出体験館２.jpg in Resources */,
 				04458FC61F4719F1000EAF28 /* 江名子川七夕飾り１.jpg in Resources */,
@@ -601,7 +603,6 @@
 				04458FDE1F471A38000EAF28 /* 高山城跡.jpg in Resources */,
 				04458F961F471969000EAF28 /* タルマかねこおりライトアップ２.jpg in Resources */,
 				04458FDF1F471A3B000EAF28 /* 高山市役所庁舎.jpg in Resources */,
-				04458F2C1F470191000EAF28 /* 114514.gif in Resources */,
 				04458FE31F471A47000EAF28 /* 鮎の塩焼き-02.JPG in Resources */,
 				04458FC51F4719EF000EAF28 /* 桜香の湯.jpg in Resources */,
 				04458FAD1F4719AA000EAF28 /* 小糸焼.jpg in Resources */,
@@ -611,6 +612,7 @@
 				046030161F46F3DE00851AD7 /* Storyboard.storyboard in Resources */,
 				04458F9B1F471976000EAF28 /* ラーメン.jpeg in Resources */,
 				04458F931F471961000EAF28 /* キッチン飛騨.jpg in Resources */,
+				DA0D1FE21FA456BB00884598 /* DescriptionView.xib in Resources */,
 				04458FB01F4719B3000EAF28 /* 山桜神社絵馬市２.jpg in Resources */,
 				04458F9A1F471973000EAF28 /* ハンバーガー.jpeg in Resources */,
 				04458FB21F4719B8000EAF28 /* 市政記念館.jpg in Resources */,
@@ -646,7 +648,6 @@
 				04458FAE1F4719AC000EAF28 /* 山中和紙-02.JPG in Resources */,
 				04458F921F47195E000EAF28 /* ぶり街道祭り２.jpg in Resources */,
 				04458FC21F4719E5000EAF28 /* 松倉山.jpg in Resources */,
-				04458FF81F480DC0000EAF28 /* toy_hida_sarubobo.png in Resources */,
 				04458FF61F47DF9B000EAF28 /* 464.png in Resources */,
 				04458FB81F4719C8000EAF28 /* 我楽多市２.jpg in Resources */,
 				04458FBB1F4719D2000EAF28 /* 手筒花火３.jpg in Resources */,
@@ -680,6 +681,7 @@
 				0467FB391F46D81500787696 /* ViewController.swift in Sources */,
 				04458F2E1F47102B000EAF28 /* galleryViewController.swift in Sources */,
 				04458FE71F471C4E000EAF28 /* GalleryViewController.swift in Sources */,
+				DAF48FC91FA47D1C0074BC2D /* DescriptionView.swift in Sources */,
 				0467FB371F46D81400787696 /* AppDelegate.swift in Sources */,
 				0467FB661F46DF1300787696 /* MyLabel.swift in Sources */,
 			);
@@ -843,7 +845,7 @@
 				INFOPLIST_FILE = "さるぼぼと歩く飛騨の観光地/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "net.mobilecore.---------------";
+				PRODUCT_BUNDLE_IDENTIFIER = net.mobilecore.sarubobowithhidasightseeing;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -858,7 +860,7 @@
 				INFOPLIST_FILE = "さるぼぼと歩く飛騨の観光地/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "net.mobilecore.---------------";
+				PRODUCT_BUNDLE_IDENTIFIER = net.mobilecore.sarubobowithhidasightseeing;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";

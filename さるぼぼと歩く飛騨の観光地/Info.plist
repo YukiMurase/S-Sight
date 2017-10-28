@@ -20,6 +20,8 @@
 	<string>1</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>NSMotionUsageDescription</key>
+	<string>to count your steps</string>
 	<key>UILaunchStoryboardName</key>
 	<string>Storyboard</string>
 	<key>UIMainStoryboardFile</key>
@@ -41,7 +43,5 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
-    <key>NSMotionUsageDescription</key>
-    <string>to count your steps</string>
 </dict>
 </plist>

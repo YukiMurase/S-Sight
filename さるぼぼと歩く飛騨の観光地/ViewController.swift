@@ -53,10 +53,35 @@ class ViewController: UIViewController, AVAudioPlayerDelegate {
         self.pedometer.stopUpdates()
         userDefaults.set(steps, forKey: "step")
     }
+    
+    
+    
     @IBOutlet weak var myLabel: UILabel!
     
     @IBOutlet weak var myLabel2: UILabel!
     
+    @IBAction func discriptionPop(_ sender: Any) {
+        
+        //  カスタムポップアップ
+        let popupView:DescriptionView = UINib(nibName: "DescriptionView", bundle: nil).instantiate(withOwner: self,options: nil)[0] as! DescriptionView
+
+        // ポップアップビュー背景色（グレーの部分）
+        let viewColor = UIColor.black
+        // 半透明にして親ビューが見えるように。透過度はお好みで。
+        popupView.backgroundColor = viewColor.withAlphaComponent(0.5)
+        // ポップアップビューを画面サイズに合わせる
+        popupView.frame = self.view.frame
+
+        // ダイアログ背景色（白の部分）
+        let baseViewColor = UIColor.white
+        // ちょっとだけ透明にする
+        popupView.baseView.backgroundColor = baseViewColor.withAlphaComponent(0.7)
+        // 角丸にする
+        popupView.baseView.layer.cornerRadius = 8.0
+
+        // 貼り付ける
+        self.view.addSubview(popupView)
+    }
     
     // メンバー変数でないと動作しないので注意
     let pedometer = CMPedometer()

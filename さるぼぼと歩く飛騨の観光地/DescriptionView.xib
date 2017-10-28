@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13196" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13174"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" restorationIdentifier="DescriptionView" id="iN0-l3-epB" customClass="DescriptionView" customModule="さるほ_ほ_と歩く飛騨の観光地" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <button opaque="NO" alpha="0.5" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="0My-eb-vIA">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                    <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                    <state key="normal">
+                        <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                    <connections>
+                        <action selector="close:" destination="iN0-l3-epB" eventType="touchUpInside" id="HZ9-eZ-YJX"/>
+                    </connections>
+                </button>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Zuw-qN-pbA">
+                    <rect key="frame" x="67" y="96" width="240" height="468"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="Zuw-qN-pbA" secondAttribute="trailing" constant="68" id="37E-Zc-9lr"/>
+                <constraint firstItem="Zuw-qN-pbA" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" constant="67" id="X1L-yy-fHa"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="bottom" secondItem="Zuw-qN-pbA" secondAttribute="bottom" constant="103" id="fic-32-SDl"/>
+                <constraint firstItem="0My-eb-vIA" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="mtb-iU-4Y7"/>
+                <constraint firstItem="0My-eb-vIA" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" id="oPY-4r-DnG"/>
+                <constraint firstItem="0My-eb-vIA" firstAttribute="bottom" secondItem="vUN-kp-3ea" secondAttribute="bottom" id="q5u-pC-4Z5"/>
+                <constraint firstItem="Zuw-qN-pbA" firstAttribute="top" secondItem="vUN-kp-3ea" secondAttribute="top" constant="76" id="rDH-dN-rCd"/>
+                <constraint firstItem="0My-eb-vIA" firstAttribute="trailing" secondItem="vUN-kp-3ea" secondAttribute="trailing" id="yiz-nQ-NyO"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <connections>
+                <outlet property="baseView" destination="Zuw-qN-pbA" id="Oag-SN-naU"/>
+            </connections>
+            <point key="canvasLocation" x="-16" y="-62"/>
+        </view>
+    </objects>
+</document>
